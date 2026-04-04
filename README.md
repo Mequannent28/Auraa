@@ -1,9 +1,9 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/grilli)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/grilli?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/grilli?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/Mequannent28/Auraa)
+  ![GitHub stars](https://img.shields.io/github/stars/Mequannent28/Auraa?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/Mequannent28/Auraa?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Mequannent28?style=social)](https://twitter.com/intent/follow?screen_name=Mequannent28)
   [![YouTube Video Views](https://img.shields.io/youtube/views/CjVGp5kGHxA?style=social)](https://youtu.be/CjVGp5kGHxA)
 
   <br />
@@ -13,7 +13,7 @@
 
   Aura is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+  <a href="https://Mequannent28.github.io/Auraa/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Aura Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 

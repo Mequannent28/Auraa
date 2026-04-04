@@ -305,11 +305,11 @@ View Our Blog
 
 #---------- FOOTER ----------#
 
-alt = grilli home
+alt = aura home
 
 Restaurant St, Delicious City, London 9578, UK
 
-booking@grilli.com
+booking@aura.com
 
 Booking Request : +88-123-123456
 
@@ -337,11 +337,11 @@ Twitter
 Youtube
 Google Map
 
-&copy; 2022 Grilli. All Rights Reserved | Crafted by
+&copy; 2022 Aura. All Rights Reserved | Crafted by
 
-https://github.com/codewithsadee
+https://github.com/Mequannent28
 
-codewithsadee
+Mequannent28
 
 
 
