@@ -1,0 +1,16 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path id="circlePath" d="M 100, 100 m -80, 0 a 80,80 0 1,1 160,0 a 80,80 0 1,1 -160,0" />
+  </defs>
+  <circle cx="100" cy="100" r="70" fill="#121212" stroke="#E4C590" stroke-width="2" />
+  <circle cx="100" cy="100" r="95" fill="none" stroke="#E4C590" stroke-width="0.5" />
+  
+  <text font-family="serif" font-size="14" fill="#E4C590" letter-spacing="3">
+    <textPath href="#circlePath" startOffset="50%" text-anchor="middle">
+      FRESH ENVIRONMENT • QUALITY FOOD
+    </textPath>
+  </text>
+  
+  <text x="100" y="90" font-family="serif" font-size="12" font-weight="bold" fill="#E4C590" text-anchor="middle" letter-spacing="2">SINCE</text>
+  <text x="100" y="125" font-family="serif" font-size="32" font-weight="bold" fill="#E4C590" text-anchor="middle">2015</text>
+</svg>
