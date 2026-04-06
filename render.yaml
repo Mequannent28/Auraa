@@ -2,8 +2,6 @@ services:
   - type: web
     name: aura-restaurant
     runtime: php
-    buildCommand: ""
-    startCommand: php -S 0.0.0.0:$PORT -t .
     envVars:
       - key: DB_HOST
         sync: false
